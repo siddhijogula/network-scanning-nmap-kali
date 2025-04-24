@@ -1,0 +1,12 @@
+network-scanning-nmap-kali/
+│
+├── README.md
+├── project_notes.md
+├── scans/
+│   ├── basic_scan.txt
+│   ├── port_80_scan.txt
+│   ├── version_scan.txt
+│   ├── os_detection.txt
+│   └── aggressive_scan.txt
+└── screenshots/            
+    └── nmap_scan_result.png
